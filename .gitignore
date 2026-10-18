@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+scraped_data.csv
+.venv/
+venv/
+.vscode/
